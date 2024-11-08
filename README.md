@@ -14,7 +14,7 @@ BibTeX (arXiv for now):
   year={2024}
 }
 ```
-## This code is based on [casual-gen](https://github.com/biomedia-mira/causal-gen).
+#### This code is based on [casual-gen](https://github.com/biomedia-mira/causal-gen).
 
 The project consists of two directories. The first directory, `src-2o`, includes the following components: code for generating toy datasets, learning Structural Causal Models (SCM) mechanisms for all datasets (including toy datasets, MorphMNIST, and 3DIdentBOX), and code for counterfactual inference, covering both non-backtracking counterfactuals and natural counterfactuals.
 
